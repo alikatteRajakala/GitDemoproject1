@@ -4,7 +4,7 @@ public class Test1Java {
 	public static void main(String[] args) {
 		String name="raja";
 		if(name=="raja") {
-			System.out.println("auyhemticated...");
+			System.out.println("authenticated...");
 			
 		}
 		else {
